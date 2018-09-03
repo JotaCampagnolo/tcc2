@@ -1,3 +1,5 @@
+{ Average Value: 3.1525698097936057 }
+
 ('sport', 155)
 ('said', 81)
 ('play', 54)

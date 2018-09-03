@@ -56,16 +56,22 @@ for file in IN_FILES:
 
 # Sort the dictionarys by value:
 news_dict = sorted(news_dict.items(), reverse=True, key=operator.itemgetter(1))
+news_total = sum(word[1] for word in news_dict) / len(news_dict)
 wiki_dict = sorted(wiki_dict.items(), reverse=True, key=operator.itemgetter(1))
+wiki_total = sum(word[1] for word in wiki_dict) / len(wiki_dict)
 all_dict = sorted(all_dict.items(), reverse=True, key=operator.itemgetter(1))
+all_total = sum(word[1] for word in all_dict) / len(all_dict)
 
 # Saves the output files:
 with open(PATH_OUT+'news_out.txt', 'w') as file:
+    file.write('{ Average Value: ' + str(news_total) + ' }\n\n')
     for word in news_dict:
         file.write(str(word)+'\n')
 with open(PATH_OUT+'wiki_out.txt', 'w') as file:
+    file.write('{ Average Value: ' + str(wiki_total) + ' }\n\n')
     for word in wiki_dict:
         file.write(str(word)+'\n')
 with open(PATH_OUT+'all_out.txt', 'w') as file:
+    file.write('{ Average Value: ' + str(all_total) + ' }\n\n')
     for word in all_dict:
         file.write(str(word)+'\n')
