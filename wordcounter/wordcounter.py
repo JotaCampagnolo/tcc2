@@ -64,14 +64,14 @@ all_total = sum(word[1] for word in all_dict) / len(all_dict)
 
 # Saves the output files:
 with open(PATH_OUT+'news_out.txt', 'w') as file:
-    file.write('{ Average Value: ' + str(news_total) + ' }\n\n')
+    file.write('{ Average Value: ' + str(int(news_total)+1) + ' }\n\n')
     for word in news_dict:
         file.write(str(word)+'\n')
 with open(PATH_OUT+'wiki_out.txt', 'w') as file:
-    file.write('{ Average Value: ' + str(wiki_total) + ' }\n\n')
+    file.write('{ Average Value: ' + str(int(wiki_total)+1) + ' }\n\n')
     for word in wiki_dict:
         file.write(str(word)+'\n')
 with open(PATH_OUT+'all_out.txt', 'w') as file:
-    file.write('{ Average Value: ' + str(all_total) + ' }\n\n')
+    file.write('{ Average Value: ' + str(int(all_total)+1) + ' }\n\n')
     for word in all_dict:
         file.write(str(word)+'\n')

@@ -1,4 +1,4 @@
-{ Average Value: 2.8978295394388565 }
+{ Average Value: 3 }
 
 ('said', 81)
 ('player', 46)

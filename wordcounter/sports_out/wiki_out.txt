@@ -1,4 +1,4 @@
-{ Average Value: 2.3044776119402983 }
+{ Average Value: 3 }
 
 ('sport', 152)
 ('particip', 36)
