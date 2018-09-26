@@ -1,0 +1,108 @@
+Our Investigative Reporters Explain the Trump-Russia Story
+Mark Mazzetti and Scott Shane answer readers’ questions on Russian interference in the 2016 election, the Mueller investigation and their reporting process.
+
+Image
+President Trump and President Vladimir V. Putin of Russia in Helsinki, Finland, in July. Credit Credit Pablo Martinez Monsivais/Associated Press
+By The New York Times
+
+Sept. 26, 2018
+
+The Times published a five-chapter special section last week elucidating the Trump-Russia story. The mammoth undertaking, by our investigative reporters Mark Mazzetti and Scott Shane, comprehensively lays out the key plot points and details of Moscow’s interference in the 2016 election — and what we’ve learned over the past two years.
+
+We asked readers to send us their questions about Russian meddling; the continuing investigation by the special counsel, Robert S. Mueller III; and the reporting process for the special section. We received nearly 600 responses. Mark and Scott respond to a selection of the inquiries here.
+
+Did the Russians have anything to do with President Trump’s becoming the Republican candidate in the first place? Did Russia interfere in the primaries?
+
+— Jim Houghton, Encino, Calif.
+
+MARK MAZZETTI Based on the timeline of events we have from Mr. Mueller’s indictments and from voluminous media reporting, the Russian operation to interfere in the election really didn’t begin in earnest until the spring of 2016, when Mr. Trump had mostly sewn up the Republican nomination.
+
+
+As we say in our story, it certainly must have been welcome news at the Kremlin that the one person to emerge from a very crowded field of Republican candidates was someone who advocated better ties to Russia. That said, we don’t know of any evidence that the Russians had a hand in helping the Trump campaign win the nomination.
+
+Is there any solid evidence that anyone actually voted for Mr. Trump instead of Hillary Clinton as a result of the fake accounts?
+
+— David Merzig, Oneonta, N.Y.
+
+SCOTT SHANE It’s pretty much impossible to dissect why a particular person voted one way rather than the other, whether you’re considering the impact of a TV ad, a candidate’s speech or the Russians’ hundreds of fake pages on Facebook. But the Russians’ hacking and leaking of Democratic emails repeatedly disrupted the Clinton campaign, and the Russians’ Facebook pages alone reached 126 million Americans.
+
+Given how close the election was, we judged it reasonable to say it is “plausible,” if unprovable, that Russian interference was sufficient to shift the outcome. (The same, of course, might be said of many other factors: the public statements about Mrs. Clinton’s email server by James Comey, then the F.B.I. director; or Mrs. Clinton’s decision not to campaign aggressively in certain crucial states; or Mr. Trump’s mastery of Twitter.) The New Yorker reports this week on a new book by the respected scholar Kathleen Hall Jamieson of the University of Pennsylvania that makes a far more detailed case that it is not just plausible but also “likely” that Russian interference was responsible for Mr. Trump’s victory.
+
+
+the Trump-russia story
+Catch up on our special section and learn the back story.
+The Plot to Subvert an Election: Unraveling the Russia Story So Far
+Sept. 20, 2018
+Collecting the Details of the Russia Investigation in One Place
+Sept. 20, 2018
+Why didn’t the F.B.I. and the C.I.A. realize what was going on? Where were American spies in Russia? Some news reports indicate that the United States has an informant in Russian President Vladimir V. Putin’s inner circle; is it possible that the person knew but did not want to disclose the information?
+
+— Kristian Wachtell, Copenhagen
+
+
+MAZZETTI It certainly should be assumed that the C.I.A. had sources inside Russia during 2016, but for the moment it’s impossible to know just how close those agents might have been to Mr. Putin. One longstanding tension in intelligence work is deciding when to make public what you have obtained from secret sources — it can put those sources at risk and potentially dry up the pipeline of information.
+
+Still, legitimate questions have been raised about whether the United States government as a whole took the Russia operation seriously enough. A book excerpt in The Washington Post has a good account of the concerns inside the C.I.A. during this period, and Mr. Comey, the former F.B.I. director, has said his counterintelligence agents were so concerned about the contacts between Trump campaign advisers and Russians that they launched an investigation in July 2016. Whether anyone did enough — at the White House, the F.B.I., the C.I.A. and elsewhere — will be debated for a very long time.
+
+How do we know the Russians didn’t hack the voting machines and voter registration databases in swing states to allow Mr. Trump to win? How would we know?
+
+— Ron Balassanian, San Francisco
+
+SHANE Experts at the Department of Homeland Security and outside the government found evidence that Russian hackers had probed election-related computer networks in at least 21 states and in some cases got access to voter rolls. But they found no evidence that the hackers managed to take actions that affected the vote counts.
+
+The caveat is that in most states, there was no detailed forensic examination of computer servers to rule out tampering for certain. Many states have moved in the last two years to strengthen their defenses. But cybersecurity experts have warned that the decentralized American election system, in which state and local authorities control the machinery, makes it impossible to impose a comprehensive fix.
+
+What is the most direct evidence currently known connecting Mr. Trump with any Russians seeking to influence the 2016 election?
+
+— John English, East Lansing, Mich.
+
+
+MAZZETTI No evidence has emerged to date showing direct contact between President Trump and Russians involved in the operation to interfere with the 2016 election. Mr. Trump developed relationships with Russians when he took the Miss Universe pageant to Moscow in 2013, and some of those people were involved in setting up the June 2016 meeting at Trump Tower. President Trump has denied he knew about that meeting when it occurred, and no evidence has come out suggesting otherwise.
+
+What I don’t understand is why Russia wanted Mr. Trump as president and not Mrs. Clinton? Why are Russia and Mr. Putin better off with Mr. Trump?
+
+— Tony Olds, Lansing, Mich.
+
+SHANE One answer is that Mr. Putin had clashed repeatedly with Mrs. Clinton when she was secretary of state and saw her as a hawk who would provide strong backing for NATO and other Western institutions. As a candidate, Mr. Trump, by contrast, expressed admiration for Mr. Putin and seemed eager to pursue better relations with Moscow even at the expense of NATO and the European Union.
+
+In practice, the Trump administration has produced a contradictory record: Mr. Trump has kept up the Putin-friendly rhetoric even as his cabinet has persuaded him to take a series of tough actions, escalating sanctions, expelling Russian diplomats suspected of spying and supplying defensive weapons to Ukraine.
+
+Is Mr. Putin seeking to overtake the United States in terms of dominance and presence on the world stage? Does Mr. Putin believe that with President Trump’s help Russia will emerge as a rejuvenated world power, with the United States in a diminished capacity?
+
+— John C. Turley, Chicago
+
+SHANE Russia’s population, 142 million, is less than half that of the United States; its oil-dependent economy is about one-fifth the size of the American economy and is suffering under Western sanctions; its military, while modernized under Mr. Putin, has a fraction of the resources of American armed forces. So there seems to be no realistic prospect that Russia will overtake the United States on the world stage in the foreseeable future.
+
+What Mr. Putin has demonstrated, however, is that by using the cheap, new tools of hacking, leaking and social media manipulation, Russia can cause outsize trouble for the United States and other countries. Presumably one of Mr. Putin’s goals is to convince Russians and their neighbors that the United States is a deeply troubled, bitterly divided country whose brand of democracy should be a model for no one. Russia is a much-discussed, much-feared player on the world stage, and that may be enough for Mr. Putin.
+
+
+Has there ever been successful foreign interference in American internal affairs on this scale before? Or did Russia achieve something that had never been done before during the election?
+
+— Jeffrey Rahman, Washington State
+
+SHANE Our research has found no foreign intervention in a previous American election remotely comparable to what Russia achieved in 2016. The Soviet Union made a modest effort to prevent the re-election of President Ronald Reagan in 1984, Soviet archives show, but it seems to have been a propaganda operation with little effect. The Justice Department and Congress investigated political donations in 1996 from China-linked donors to Democrats, including the Clinton-Gore re-election campaign, but there was no evidence of an organized Chinese state operation.
+
+What changed by 2016 was the availability of hacking, leaking and social media chicanery as inexpensive tools for political meddling — and Mr. Putin’s willingness to risk using such tools aggressively.
+
+Who decides whether or not the results of Mr. Mueller’s investigation are made public? Who decides the form of that reporting? I’m sensing we may be heading for a Pentagon Papers moment.
+
+— Renata Simone, Massachusetts
+
+MAZZETTI The first step is for Mr. Mueller’s team to finish the investigation, and it’s anyone’s guess when that will be. Once that’s done, Mr. Mueller will deliver a confidential report to the person at the Justice Department who is overseeing the investigation. At least for now, that person is Rod J. Rosenstein, the deputy attorney general.
+
+From there, Mr. Rosenstein will face a decision about whether to deliver the report to Congress, which could then make Mr. Mueller’s findings public. The conventional wisdom is that there will be intense political pressure on Mr. Rosenstein to deliver any report to Congress, and it seems far more likely than not that Mr. Mueller’s findings will officially be made public.
+
+What are all of the “beliefs” and “thoughts” of Mr. Putin you describe and state throughout the article based on? His interviews? His articles? Insight from conversations he’s had with close advisers?
+
+— Tonia Mathew, New York
+
+
+SHANE Mr. Putin has been quite open about his views on Mrs. Clinton, Mr. Trump and what he perceives as American meddling in Russia, and some of his comments are quoted in our article. A United States intelligence assessment made public in January 2017 concluded that the Russian president “ordered an influence campaign in 2016” that was intended to “undermine public faith in the U.S. democratic process, denigrate Secretary Clinton, and harm her electability and potential presidency.” It said that Russia had “developed a clear preference for” Mr. Trump. Our reconstruction of what Mr. Putin thought and did is partly based on such documents, interviews with experts on Russia and logical suppositions.
+
+What is the most shocking fact you learned about Russian interference in the 2016 election?
+
+— William Bradley, Canada
+
+MAZZETTI We’ve been immersed in this story for nearly two years, so at the start of this project we had a decent grasp of the myriad strands of this complicated story. And the real goal of the piece was to try to tie things together as much as possible for people who haven’t been following every single twist and turn of the investigation. Once we hammered out the structure of the story, with five thematic chapters, it became a bit easier to construct a narrative that we hoped wouldn’t become just a parade of names and dates.
+
+I don’t think there was one “shocking fact” we uncovered during the reporting, but putting everything together I think reveals a pretty shocking portrait of the extent of the Russian operation. Also, for us it was very revealing how much the Russian campaign seemed to kick into gear as soon as Mr. Trump became the de facto Republican nominee and it was clear he would be facing Mrs. Clinton.
