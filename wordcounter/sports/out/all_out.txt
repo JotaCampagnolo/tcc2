@@ -1,4 +1,6 @@
 { Average Value: 4 }
+{ Total Words: 7413 }
+{ Total Unique Words: 2471 }
 
 ('sport', 155)
 ('said', 81)

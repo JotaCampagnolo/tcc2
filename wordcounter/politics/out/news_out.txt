@@ -1,4 +1,6 @@
 { Average Value: 3 }
+{ Total Words: 3476 }
+{ Total Unique Words: 1738 }
 
 ('mr', 93)
 ('trump', 74)

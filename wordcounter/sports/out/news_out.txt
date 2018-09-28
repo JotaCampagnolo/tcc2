@@ -1,4 +1,6 @@
 { Average Value: 3 }
+{ Total Words: 3778 }
+{ Total Unique Words: 1889 }
 
 ('said', 81)
 ('player', 46)

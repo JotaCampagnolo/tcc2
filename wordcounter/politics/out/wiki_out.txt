@@ -1,4 +1,6 @@
 { Average Value: 3 }
+{ Total Words: 1682 }
+{ Total Unique Words: 841 }
 
 ('polit', 125)
 ('govern', 34)

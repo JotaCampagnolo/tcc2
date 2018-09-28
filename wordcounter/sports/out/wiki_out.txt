@@ -1,4 +1,6 @@
 { Average Value: 3 }
+{ Total Words: 2010 }
+{ Total Unique Words: 1005 }
 
 ('sport', 152)
 ('particip', 36)

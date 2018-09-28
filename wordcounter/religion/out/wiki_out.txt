@@ -1,4 +1,6 @@
 { Average Value: 4 }
+{ Total Words: 5256 }
+{ Total Unique Words: 1752 }
 
 ('religion', 277)
 ('religi', 106)

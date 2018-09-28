@@ -1,4 +1,6 @@
 { Average Value: 4 }
+{ Total Words: 6657 }
+{ Total Unique Words: 2219 }
 
 ('polit', 139)
 ('mr', 93)
