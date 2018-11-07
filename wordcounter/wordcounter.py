@@ -30,7 +30,7 @@ for topic in TOPICS:
             clean_text = text
             for char in '-': # Remove '-' from words.
                 clean_text = clean_text.replace(char, ' ')
-            for char in '!\"#$%&\'“”—–’()*+,./:;<=>?@[]\\_0123456789': # Remove special chars.
+            for char in '!\"#$%&\'“”—–’()*+,./:;<=>?@[]\\_0123456789•': # Remove special chars.
                 clean_text = clean_text.replace(char, '')
             text_tokens = word_tokenize(clean_text) # Tokenize the data.
             clean_tokens = []
