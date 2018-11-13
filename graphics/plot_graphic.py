@@ -20,7 +20,10 @@ def plot_graphic(top5, top10, topic):
     plt.xticks(range(0, 3), ['Original Topic', '1', '2'])
     plt.yticks(np.arange(-5,5, 0.25))
     for metric in range(0,6):
-        plot1.plot(range(0,3), abs(top5[:,[metric]]), 'o-', color=COLORS[metric], linewidth = 1, label=METRICS[metric]+' Coherence')
+        if metric == 3:
+            plot1.plot(range(0,3), abs(top5[:,[metric]]), 'o-', color=COLORS[metric], linewidth = 1, label=METRICS[metric]+' Coherence')
+        else:
+            plot1.plot(range(0,3), top5[:,[metric]], 'o-', color=COLORS[metric], linewidth = 1, label=METRICS[metric]+' Coherence')
     plt.legend(bbox_to_anchor=(0., 1.02, 1., .102), loc=0, ncol=3, mode="expand", borderaxespad=0.)
 
     ## Figure 2 will plot the top-10 metrics scores:
@@ -32,7 +35,11 @@ def plot_graphic(top5, top10, topic):
     plt.xticks(range(0, 5), ['Original Topic', '1', '2', '3', '4'])
     plt.yticks(np.arange(-5,5, 0.25))
     for metric in range(0,6):
-        plot2.plot(range(0,5), abs(top10[:,[metric]]), 'o-', color=COLORS[metric], linewidth = 1, label=METRICS[metric]+' Coherence')
+        if metric == 3:
+            plot2.plot(range(0,5), abs(top10[:,[metric]]), 'o-', color=COLORS[metric], linewidth = 1, label=METRICS[metric]+' Coherence')
+        else:
+            plot2.plot(range(0,5), top10[:,[metric]], 'o-', color=COLORS[metric], linewidth = 1, label=METRICS[metric]+' Coherence')
+
     plt.legend(bbox_to_anchor=(0., 1.02, 1., .102), loc=0, ncol=3, mode="expand", borderaxespad=0.)
 
     ## Saves the graphics from Figure 1 into the plots folder:
