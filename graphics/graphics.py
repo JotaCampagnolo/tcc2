@@ -25,8 +25,12 @@ Music_10 = SCORES[27:32]
 Christmas_5 = SCORES[32:35]
 Christmas_10 = SCORES[35:40]
 
+Top_5_Mean = (Sports_5 + Politics_5 + Religion_5 + Music_5 + Christmas_5) / 5
+Top_10_Mean = (Sports_10 + Politics_10 + Religion_10 + Music_10 + Christmas_10) / 5
+
 plot_graphic(Sports_5, Sports_10, "Sports")
 plot_graphic(Politics_5, Politics_10, "Politics")
 plot_graphic(Religion_5, Religion_10, "Religion")
 plot_graphic(Music_5, Music_10, "Music")
 plot_graphic(Christmas_5, Christmas_10, "Christmas")
+plot_graphic(Top_5_Mean, Top_10_Mean, "Mean")
