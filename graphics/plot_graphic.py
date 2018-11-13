@@ -18,7 +18,7 @@ def plot_graphic(top5, top10, topic):
     plot1.set_ylabel("Metric Score")
     plot1.set_xlabel("Number of Intrusive Words")
     plt.xticks(range(0, 3), ['Original Topic', '1', '2'])
-    plt.yticks(np.arange(-5,5, 0.25))
+    plt.yticks(np.arange(-5,5, 0.1))
     for metric in range(0,6):
         if metric == 3:
             plot1.plot(range(0,3), abs(top5[:,[metric]]), 'o-', color=COLORS[metric], linewidth = 1, label=METRICS[metric]+' Coherence')
@@ -33,7 +33,7 @@ def plot_graphic(top5, top10, topic):
     plot2.set_ylabel("Metric Score")
     plot2.set_xlabel("Number of Intrusive Words")
     plt.xticks(range(0, 5), ['Original Topic', '1', '2', '3', '4'])
-    plt.yticks(np.arange(-5,5, 0.25))
+    plt.yticks(np.arange(-5,5, 0.1))
     for metric in range(0,6):
         if metric == 3:
             plot2.plot(range(0,5), abs(top10[:,[metric]]), 'o-', color=COLORS[metric], linewidth = 1, label=METRICS[metric]+' Coherence')
