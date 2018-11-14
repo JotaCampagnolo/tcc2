@@ -6,7 +6,7 @@ def plot_graphic(top5, top10, topic):
 
     # Defines the Metrics names and colors:
     METRICS = ['CV', 'CP', 'CUCI', 'CUMASS', 'CNPMI', 'CA']
-    COLORS = ['#2E86C1', '#17A589', '#9A7D0A', '#7D3C98', '#E74C3C', '#34495E']
+    COLORS = ['#FF7F00', '#0000FF', '#00FF00', '#FF0000', '#8B00FF', '#E0C800']
 
     # Creates the figure that will be ploted:
     figure = plt.figure(figsize=(15, 8))
