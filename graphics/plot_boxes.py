@@ -8,9 +8,9 @@ COLORS = ['#FF7F00', '#0000FF', '#00FF00', '#FF0000', '#8B00FF', '#E0C800']
 
 def subplot_box(position, metric, i, figure, subplots, size):
     subplots.append(figure.add_subplot(position))
-    subplots[-1].set_title(' TOP-' + str(size) + ' Metrics Scores')
+    subplots[-1].set_title(' TOP-' + str(size) + ' : ' + METRICS[i] + ' Coherence Scores', color=COLORS[i])
     subplots[-1].grid(linestyle='-', color='#eeeeee')
-    subplots[-1].set_ylabel(str(METRICS[i]) + " Coherence Score")
+    subplots[-1].set_ylabel("Coherence Score")
     subplots[-1].set_xlabel("Number of Intrusive Words")
     data1 = metric[0]
     data2 = metric[1]
@@ -18,16 +18,25 @@ def subplot_box(position, metric, i, figure, subplots, size):
     if len(metric) == 5:
         data4 = metric[3]
         data5 = metric[4]
-    subplots[-1].boxplot(data1[:,[i]], positions = [2])
-    subplots[-1].boxplot(data2[:,[i]], positions = [3])
-    subplots[-1].boxplot(data3[:,[i]], positions = [4])
+    subplots[-1].boxplot(data1[:,[i]], widths=0.4, positions = [2])
+    subplots[-1].boxplot(data2[:,[i]], widths=0.4, positions = [3])
+    subplots[-1].boxplot(data3[:,[i]], widths=0.4, positions = [4])
     if len(metric) == 5:
-        subplots[-1].boxplot(data4[:,[i]], positions = [5])
-        subplots[-1].boxplot(data5[:,[i]], positions = [6])
+        subplots[-1].boxplot(data4[:,[i]], widths=0.4, positions = [5])
+        subplots[-1].boxplot(data5[:,[i]], widths=0.4, positions = [6])
+
+    plt.plot(np.ones(5)*2, data1[:,[i]], 'o', color=COLORS[i], alpha=0.5)
+    plt.plot(np.ones(5)*3, data2[:,[i]], 'o', color=COLORS[i], alpha=0.5)
+    plt.plot(np.ones(5)*4, data3[:,[i]], 'o', color=COLORS[i], alpha=0.5)
+    if len(metric) == 5:
+        plt.plot(np.ones(5)*5, data4[:,[i]], 'o', color=COLORS[i], alpha=0.5)
+        plt.plot(np.ones(5)*6, data5[:,[i]], 'o', color=COLORS[i], alpha=0.5)
+
     if len(metric) == 5:
         plt.xticks([1,2,3,4,5,6,7], ['','Original Topic', 1, 2, 3, 4, ''])
     else:
         plt.xticks([1,2,3,4,5], ['','Original Topic', 1, 2,''])
+    plt.subplots_adjust(wspace=0.3, hspace=0.3)
     return True
 
 def plot_boxes(TopN, size):
