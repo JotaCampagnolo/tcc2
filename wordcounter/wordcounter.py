@@ -69,19 +69,19 @@ for topic in TOPICS:
     # Saves the output files:
     with open(PATH_OUT+'news_out.txt', 'w') as file:
         file.write('{ Average Value: ' + str(int(news_total)+1) + ' }\n')
-        file.write('{ Total Words: ' + str(int(news_total)*len(news_dict)) + ' }\n')
+        file.write('{ Total Words: ' + str(int(news_total*len(news_dict))) + ' }\n')
         file.write('{ Total Unique Words: ' + str(int(len(news_dict))) + ' }\n\n')
         for word in news_dict:
             file.write(str(word)+'\n')
     with open(PATH_OUT+'wiki_out.txt', 'w') as file:
         file.write('{ Average Value: ' + str(int(wiki_total)+1) + ' }\n')
-        file.write('{ Total Words: ' + str(int(wiki_total)*len(wiki_dict)) + ' }\n')
+        file.write('{ Total Words: ' + str(int(wiki_total*len(wiki_dict))) + ' }\n')
         file.write('{ Total Unique Words: ' + str(int(len(wiki_dict))) + ' }\n\n')
         for word in wiki_dict:
             file.write(str(word)+'\n')
     with open(PATH_OUT+'all_out.txt', 'w') as file:
         file.write('{ Average Value: ' + str(int(all_total)+1) + ' }\n')
-        file.write('{ Total Words: ' + str(int(all_total)*len(all_dict)) + ' }\n')
+        file.write('{ Total Words: ' + str(int(all_total*len(all_dict))) + ' }\n')
         file.write('{ Total Unique Words: ' + str(int(len(all_dict))) + ' }\n\n')
         for word in all_dict:
             file.write(str(word)+'\n')
