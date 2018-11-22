@@ -1,5 +1,5 @@
 { Average Value: 3 }
-{ Total Words: 4568 }
+{ Total Words: 5196 }
 { Total Unique Words: 2284 }
 
 ('music', 103)

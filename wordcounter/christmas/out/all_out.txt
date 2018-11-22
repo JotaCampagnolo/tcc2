@@ -1,5 +1,5 @@
 { Average Value: 4 }
-{ Total Words: 9615 }
+{ Total Words: 11155 }
 { Total Unique Words: 3205 }
 
 ('christma', 393)

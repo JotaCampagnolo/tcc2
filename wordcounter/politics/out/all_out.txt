@@ -1,6 +1,6 @@
 { Average Value: 4 }
-{ Total Words: 6657 }
-{ Total Unique Words: 2219 }
+{ Total Words: 6902 }
+{ Total Unique Words: 2218 }
 
 ('polit', 139)
 ('mr', 93)
@@ -68,7 +68,6 @@
 ('depart', 14)
 ('bill', 14)
 ('corrupt', 14)
-('•', 14)
 ('first', 13)
 ('york', 13)
 ('sept', 13)

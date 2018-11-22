@@ -1,5 +1,5 @@
 { Average Value: 3 }
-{ Total Words: 3778 }
+{ Total Words: 5474 }
 { Total Unique Words: 1889 }
 
 ('said', 81)

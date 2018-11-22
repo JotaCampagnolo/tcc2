@@ -1,6 +1,6 @@
 { Average Value: 3 }
-{ Total Words: 3476 }
-{ Total Unique Words: 1738 }
+{ Total Words: 5068 }
+{ Total Unique Words: 1737 }
 
 ('mr', 93)
 ('trump', 74)
@@ -53,7 +53,6 @@
 ('news', 14)
 ('depart', 14)
 ('bill', 14)
-('•', 14)
 ('york', 13)
 ('sept', 13)
 ('republican', 13)

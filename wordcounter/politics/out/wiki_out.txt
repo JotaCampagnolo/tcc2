@@ -1,5 +1,5 @@
 { Average Value: 3 }
-{ Total Words: 1682 }
+{ Total Words: 1834 }
 { Total Unique Words: 841 }
 
 ('polit', 125)

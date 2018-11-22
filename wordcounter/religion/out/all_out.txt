@@ -1,5 +1,5 @@
 { Average Value: 4 }
-{ Total Words: 10803 }
+{ Total Words: 12541 }
 { Total Unique Words: 3601 }
 
 ('religion', 373)
